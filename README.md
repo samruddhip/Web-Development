@@ -1,2 +1,2 @@
-# Samruddhi-Phutane
-Starting the GitHub Journey !
+# Web Development
+Starting the Web development Journey !
